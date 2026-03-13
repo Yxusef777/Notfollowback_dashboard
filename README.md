@@ -47,15 +47,3 @@ python check_followers.py
 python dashboard.py
 
 ```
-
-
-
-## 🔒 Security Note
-
-This project was built with security in mind. All data processing happens on your local machine. No data is ever transmitted over the internet, and the `.gitignore` is strictly configured to prevent accidental uploads of your personal HTML files.
-
-```
-
-Adding a quick screenshot or a GIF of the dashboard running under the "How to Use" section would also be a massive upgrade. Keep up the great work! Let me know if you want to brainstorm how to implement Streamlit or any other features.
-
-```
